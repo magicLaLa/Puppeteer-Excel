@@ -1,0 +1,25 @@
+{
+  "name": "puppeteerPro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "images": "^3.0.2",
+    "puppeteer": "^2.0.0",
+    "request": "^2.88.0",
+    "tesseract.js": "^2.0.0-beta.2",
+    "xlsx": "^0.15.3"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1"
+  }
+}
