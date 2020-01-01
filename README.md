@@ -20,4 +20,4 @@
 
 #### 提示
 
-- `eng.traineddata` 为 `tesseract.js` 依赖保，没有的情况下会自动下载（下载时间视网络状态而定）
+- `eng.traineddata` 为 `tesseract.js` 的依赖，没有的情况下会自动下载（下载时间视网络状态而定）
